@@ -17,7 +17,7 @@ Later, the man discovered the transformative power is not in the mask itself but
 
 The man and his face mask unfolded as a narrative of letting go of unwavering misconceptions and fear to uncover the essence beneath. In coding languages and in life, the masks we wear may not fit perfectly. Yet, through persistent pursuit of knowledge, we shed constraints, emerging transformed. Like the man casting aside his mask, I aim to navigate JavaScript, shaping my programming identity beyond initial uncertainties.
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/Face-Mask/Maskman.jpeg">
 
 Recognition 
 
