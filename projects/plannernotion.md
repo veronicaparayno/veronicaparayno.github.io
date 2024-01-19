@@ -16,4 +16,4 @@ In this endeavor, creativity works hand in hand with functionality as the Notion
 
 <img width="200px" class="rounded float-start pe-4" src="../img/NotionPage.png"> 
 
-https://puffy-statistic-056.notion.site/Veronica-s-Personal-Planner-5d3922e3781a4f97a37029c43b6ac415?pvs=4 
+ 
