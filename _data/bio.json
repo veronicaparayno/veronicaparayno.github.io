@@ -47,54 +47,54 @@
   ],
   "work": [
     {
-      "company": "Retail",
-      "position": "Web Developer",
+      "company": "Frozen Delights",
+      "position": "Customer Servicer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-02-01",
+      "endDate": "2022-09-01",
+      "summary": "Contributed to the store's success by maintaining cleanliness, handling new inventory shipments, and significantly boosting sales.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Played a pivital role in enhancing the sales of the esteemed establishment",
+        ""
       ]
     },
     {
-      "company": "Retail",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Brand Ambassador",
+      "position": "Brand Associate",
+      "website": "",
+      "startDate": "2021-01-01",
+      "endDate": "2016-07-01",
+      "summary": "As a Brand Associate, I excel in providing unparalleled customer service where I demonstrate efficiency in reorganizing garments, attending to customer areas, and seamlessly handling new inventory arrivals within a dynamic and fast-paced environment.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Excelled customer service and maintaining store aesthetics",
+        "Handle new inventory in a fast-paced environment"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "FIL",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Katipunanclub",
+      "website": "",
+      "position": "Active Member",
+      "startDate": "2023-10-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Actively participating in initiatives that celebrate Filipino culture and foster a sense of community.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Promote unity and awareness within the Filipino community",
+        ""
       ]
     },
     {
-      "organization": "Gym",
+      "organization": "Notion",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Active Contributor",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "Passionate member contributing valuable insights and active participants",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Foster a collaborative learning environment for optimizing workflows",
+        
+        
       ]
     }
   ],
