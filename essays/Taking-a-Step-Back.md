@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-As a young child, I developed a deep interest in technology by secretly using my brother’s Nintendo 64 and fiddling around on his computer. I found it awesome that I can independently play games in the comfort of my own room. At that time, it felt like an interactive TV show that I got to control, determining how the story would unfold. I enjoyed playing so much that my siblings further fueled my interest by letting me try every single game they could afford at the time. It ranged from old-school classics to new-gen, and from then on, I knew I wanted to be a part of creating the games I loved dearly.
+As a young child, I developed a deep interest in technology by secretly using my brother’s Nintendo 64 and fiddling around on his computer. I found it fascinating that I can independently play games in the comfort of my own room. At that time, it felt like an interactive TV show that I got to control, determining how the story would unfold. I enjoyed playing so much that my siblings further fueled my interest by letting me try every single game they could afford at the time. It ranged from old-school classics to new-gen, and from then on, I knew I wanted to be a part of creating the games I loved dearly.
 
 <img width="200px" class="rounded float-start pe-4" src="../img/nintendo64.png">
 
