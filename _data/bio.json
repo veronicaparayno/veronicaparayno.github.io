@@ -2,7 +2,7 @@
   "basics": {
     "name": "Veronica Parayno",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "img/IMG-0338.JPG",
     "email": "vparayn2@hawaii.edu",
     "phone": "408-857-8254",
     "website": "https://veronicaparayno.github.io",
@@ -47,7 +47,7 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Retail",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "Retail",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
@@ -73,7 +73,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "FIL",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
       "startDate": "2016-01-01",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "Gym",
       "website": "",
       "position": "Professional organization involvement",
       "startDate": "",
