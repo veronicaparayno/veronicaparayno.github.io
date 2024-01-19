@@ -2,58 +2,18 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Personal Planner"
+title: "Dijkstra's algorithm"
 date: 2023
 published: true
 labels:
   - Project
-  - Organization
-summary: "A personal planner created"
+  - Algorithm
+summary: ""
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
-To give you a flavor of the game, here is an excerpt from one run:
+The C++ code presented encapsulates the implementation of Dijkstra's algorithm within the `Weighted_graph` class, designed to handle undirected weighted graphs. The class features essential functionalities for creating, managing, and destructing weighted graphs. In the constructor, it initializes the degree of vertices and constructs a weight adjacency matrix, ensuring seamless graph representation. The destructor efficiently handles memory cleanup. The `insert` function incorporates edge addition, dynamically updating the weight adjacency matrix while considering edge existence to prevent duplicates. The `distance` function effectively computes the shortest path between two vertices, employing Dijkstra's algorithm by maintaining arrays for visited vertices and distance calculations.
 
-<hr>
+This implementation aligns with the assignment's specifications, adhering to the required class structure and methods outlined in the project description. It ensures proper error handling by throwing exceptions when necessary, offering a robust solution for weighted graph manipulation. The code embraces good programming practices, featuring meaningful variable names, clear indentation, and insightful comments, enhancing its readability and facilitating understanding. Overall, the provided C++ code aptly fulfills the project's purpose, providing a robust and functional implementation of Dijkstra's algorithm within the context of weighted graphs.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
