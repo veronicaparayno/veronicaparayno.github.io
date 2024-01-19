@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
-published: false
+title: "Personal Planner"
+date: 2023
+published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Project
+  - Organization
+summary: "A personal planner created"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
