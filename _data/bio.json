@@ -39,7 +39,8 @@
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": [ CSCI Discrete Mathematics II, CSCI Algorithms, CSCI Software Engineering I 
+      "courses": [ 
+        { "name" : "CSCI Discrete Mathematics II, CSCI Algorithms, CSCI Software Engineering I" } 
 
       ]
     }
