@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/mentalhealth.jpeg
 title: "Mental Health"
 date: 2022
 published: true
