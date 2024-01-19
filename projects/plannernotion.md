@@ -14,4 +14,6 @@ In crafting my Notion planner, I had a journey to design a versatile and persona
 
 In this endeavor, creativity works hand in hand with functionality as the Notion planner transcends conventional organizational tools. The project seamlessly blends aesthetic appeal with practical utility, offering an immersive and enjoyable planning experience. The personalized touch extends to color-coded categorizations, interactive widgets, and integrative modules that transform mundane planning into an engaging journey. The Notion planner, born from a fusion of creativity and technological prowess, stands as a testament to the limitless possibilities of digital organization, providing users with an innovative and enjoyable means to navigate the complexities of their daily lives.
 
+<img width="200px" class="rounded float-start pe-4" src="../img/NotionPage.png"> 
+
 https://puffy-statistic-056.notion.site/Veronica-s-Personal-Planner-5d3922e3781a4f97a37029c43b6ac415?pvs=4 
