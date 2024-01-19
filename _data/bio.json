@@ -9,10 +9,10 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "2500 Campus Rd", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "veronicaparayno", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "rarironie", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "veronicaparayno", "url": "http://veronicaparayno.github.io" },
+      { "network": "linkedin", "username": "veronicaparayno", "url": "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" },
+      { "network": "twitter", "username": "veronicaparayno", "url": "https://twitter.com/veronicaparayno" },
+      { "network": "instagram", "username": "rarironie", "url": "https://www.instagram.com/rarironie/" }
     ]
   },
   "interests": [
@@ -109,7 +109,7 @@
       "title": "Sciencepalooza",
       "date": "2020",
       "awarder": "Synopsys Outreach Foundation",
-      "summary": "Earned "Best Reused Material Design" by creating a portable device to provide equitable access to vaccines in hot rural areas."
+      "summary": "Earned Best Reused Material Design by creating a portable device to provide equitable access to vaccines in hot rural areas."
     },
   ],
   "references": [
