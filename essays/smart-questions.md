@@ -26,6 +26,8 @@ While various avenues exist for resolving technical queries, Stack Overflow rema
 An exemplary "SMART" question, as witnessed on Stack Overflow, is one that provides precise information about the problem. For instance, a query about "getting req.body ReadableStream in nextjs14 app routing" demonstrated clarity and included relevant code snippets. The concise and clear description facilitated a helpful response, offering an alternative solution. This interaction showcased how SMART questions lead to efficient problem-solving.
 
 
+[A SMART Question](https://stackoverflow.com/questions/77875465/getting-req-body-readablestream-in-nextjs14-app-routing)
+
 
 ```
 import express from "express";
