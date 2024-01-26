@@ -50,7 +50,7 @@ Conversely, a not-so-smart question surfaced on Stack Overflow: "Need solution f
 
 Asking SMART questions is paramount for software developers, as online answers are not always readily available. The community on platforms like Stack Overflow, comprised of experienced individuals, proves invaluable for troubleshooting technical problems. The ability to ask SMART questions demonstrates essential skills like communication, comprehension, and problem-solving, fostering a collaborative learning environment.
 
-[A Failed Question]https://stackoverflow.com/questions/77877202/need-solution-for-extracting-queryparams-from-url-of-the-browser-when-called-fro 
+[A Failed Question](https://stackoverflow.com/questions/77877202/need-solution-for-extracting-queryparams-from-url-of-the-browser-when-called-fro) 
 Leads to..
 "perhaps show enough code to demonstrate what you're trying to achieve - as it is, it may be easier to learn how to fix CORS - but then, I don't quite get what it is you are trying to achieve"
 
