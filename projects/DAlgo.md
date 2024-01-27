@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ALGOPIC.jpeg
 title: "Dijkstra's algorithm"
-date: 2023
+date: 2023-01-27
 published: true
 labels:
   - Project
