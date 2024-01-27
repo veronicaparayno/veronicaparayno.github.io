@@ -7,7 +7,13 @@
     "phone": "408-857-8254",
     "website": "https://veronicaparayno.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "2500 Campus Rd", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "2500 Campus Rd",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
       { "network": "github", "username": "veronicaparayno", "url": "https://veronicaparayno.github.io" },
       { "network": "linkedin", "username": "veronicaparayno", "url": "www.linkedin.com/in/veronicaparayno" },
@@ -39,7 +45,7 @@
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": ["CSCI Discrete Mathematics II, CSCI Algorithms, CSCI Software Engineering I"]  
+      "courses": ["CSCI Discrete Mathematics II", "CSCI Algorithms", "CSCI Software Engineering I"]
     }
   ],
   "work": [
@@ -51,8 +57,7 @@
       "endDate": "2022-09-01",
       "summary": "Contributed to the store's success by maintaining cleanliness, handling new inventory shipments, and significantly boosting sales.",
       "highlights": [
-        "Played a pivital role in enhancing the sales of the esteemed establishment"
-        ""
+        "Played a pivotal role in enhancing the sales of the esteemed establishment"
       ]
     },
     {
@@ -63,8 +68,8 @@
       "endDate": "2016-07-01",
       "summary": "As a Brand Associate, I excel in providing unparalleled customer service where I demonstrate efficiency in reorganizing garments, attending to customer areas, and seamlessly handling new inventory arrivals within a dynamic and fast-paced environment.",
       "highlights": [
-        "Excelled customer service and maintaining store aesthetics",
-        "Handle new inventory in a fast-paced environment"
+        "Excelled in customer service and maintaining store aesthetics",
+        "Handled new inventory in a fast-paced environment"
       ]
     }
   ],
@@ -76,8 +81,8 @@
       "startDate": "2023-10-01",
       "endDate": "Present",
       "summary": "Actively participating in initiatives that celebrate Filipino culture and foster a sense of community.",
-      "highlights": "Promote unity and awareness within the Filipino community",
-        ""
+      "highlights": [
+        "Promote unity and awareness within the Filipino community"
       ]
     },
     {
@@ -88,9 +93,7 @@
       "endDate": "Present",
       "summary": "Passionate member contributing valuable insights and active participants",
       "highlights": [
-        "Foster a collaborative learning environment for optimizing workflows",
-        
-        
+        "Foster a collaborative learning environment for optimizing workflows"
       ]
     }
   ],
@@ -99,14 +102,14 @@
       "title": "University of Hawai'i at Manoa Dean's List",
       "date": "2024-Present",
       "awarder": "Pheng Xiong, M.Ed.",
-      "summary": "Undergraduate student earned a semester GPA of 3.5 or higher based on 12 credits that did not recieve grades of no credit, withdrawn, incomplete, failure."
+      "summary": "Undergraduate student earned a semester GPA of 3.5 or higher based on 12 credits that did not receive grades of no credit, withdrawn, incomplete, failure."
     },
     {
       "title": "Sciencepalooza",
       "date": "2020",
       "awarder": "Synopsys Outreach Foundation",
       "summary": "Earned Best Reused Material Design by creating a portable device to provide equitable access to vaccines in hot rural areas."
-    },
+    }
   ],
   "references": [
     {
