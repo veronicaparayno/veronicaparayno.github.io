@@ -35,10 +35,183 @@ In this project, you will delve into the world of graph theory by implementing D
 # Purpose 
 The purpose of this project is to reinforce my understanding of the material and initiate the development of your personal library of tools. Subsequent projects may build upon the concepts and implementations from this project, emphasizing the interconnected nature of various data structures.
 
+```/*****************************************
+ * By submitting this file, I affirm that
+ * I am the author of all modifications to
+ * the provided code.
+ *
+ * The following is a list of those students
+ * I had worked together in preparing this project:
+ * - Veronica Parayno
+ *****************************************/
+#ifndef WEIGHTED_GRAPH_H
+#define WEIGHTED_GRAPH_H
+
+#ifndef nullptr
+#define nullptr 0
+#endif
+
+#include <iostream>
+#include <limits>
+#include "Exception.h"
+
+class Weighted_graph {
+private:
+    int *deg;
+    int edges;
+    int size;
+    double **weight_adj_matrix;
+    static const double INF;
+
+public:
+    Weighted_graph(int = 50);
+    ~Weighted_graph();
+    int degree(int) const;
+    int edge_count() const;
+    double adjacent(int, int) const;
+    double distance(int, int) const;
+    void insert(int, int, double);
+
+    // Friends
+    friend std::ostream &operator<<(std::ostream &, Weighted_graph const &);
+};
+
+const double Weighted_graph::INF = std::numeric_limits<double>::infinity();
+
+Weighted_graph::Weighted_graph(int n) {
+    if (n <= 0) {
+        n = 1;
+    }
+
+    deg = new int[n];
+    for (int i = 0; i < n; i++) {
+        deg[i] = 0;
+    }
+
+    edges = 0;
+    size = n;
+
+    weight_adj_matrix = new double *[n];
+    for (int i = 0; i < size; i++) {
+        weight_adj_matrix[i] = new double[n];
+    }
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            weight_adj_matrix[i][j] = INF;
+        }
+    }
+}
+
+Weighted_graph::~Weighted_graph() {
+    delete[] deg;
+
+    for (int i = 0; i < size; i++) {
+        delete[] weight_adj_matrix[i];
+    }
+    delete[] weight_adj_matrix;
+}
+
+int Weighted_graph::degree(int n) const {
+    if (n < 0 || n > size - 1) {
+        throw illegal_argument();
+    }
+    return deg[n];
+}
+
+int Weighted_graph::edge_count() const {
+    return edges;
+}
+
+double Weighted_graph::adjacent(int m, int n) const {
+    if (n < 0 || m < 0 || n > size - 1 || m > size - 1) {
+        throw illegal_argument();
+    }
+    if (m == n) {
+        return 0;
+    }
+    return weight_adj_matrix[m][n];
+}
+
+double Weighted_graph::distance(int m, int n) const {
+    if (n < 0 || m < 0 || n > size - 1 || m > size - 1) {
+        throw illegal_argument();
+    }
+    bool *visited = new bool[size];
+    double *dist = new double[size];
+
+    for (int i = 0; i < size; i++) {
+        visited[i] = false;
+        if (m == i)
+            dist[i] = 0;
+        else
+            dist[i] = INF;
+    }
+
+    visited[m] = true;
+    int curr = m;
+    int visitedCount = 1;
+    int count = 0;
+
+    for (int i = 0; i < size; i++) {
+        if (deg[i] != 0)
+            count++;
+    }
+
+    while (visitedCount != count) {
+        for (int i = 0; i < size; i++) {
+            if ((weight_adj_matrix[curr][i] != INF) && (!visited[i]) && (dist[i] > (dist[curr] + weight_adj_matrix[i][curr]))) {
+                dist[i] = dist[curr] + weight_adj_matrix[i][curr];
+            }
+        }
+
+        double minDistance = INF;
+        int minNode = -1;
+
+        for (int i = 0; i < size; i++) {
+            if (dist[i] < minDistance && visited[i] == false) {
+                minDistance = dist[i];
+                minNode = i;
+            }
+        }
+
+        curr = minNode;
+
+        if (curr == -1)
+            break;
+        visited[curr] = true;
+        visitedCount += 1;
+    }
+
+    delete[] visited;
+    double distance = dist[n];
+    delete[] dist;
+    return distance;
+}
+
+void Weighted_graph::insert(int m, int n, double w) {
+    if (w <= 0 || w == INF || n < 0 || m < 0 || n > size - 1 || m == size - 1 || m == n) {
+        throw illegal_argument();
+    }
+
+    if (weight_adj_matrix[m][n] != INF) {
+        weight_adj_matrix[m][n] = w;
+        weight_adj_matrix[n][m] = w;
+    } else {
+        weight_adj_matrix[m][n] = w;
+        weight_adj_matrix[n][m] = w;
+        edges++;
+        deg[m]++;
+        deg[n]++;
+    }
+}
+
+std::ostream &operator<<(std::ostream &out, Weighted_graph const &graph) {
+    return out;
+}
+
+#endif
+ ```
 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/DA/annotated-Weighted_graph.h.jpg">
-<img width="200px" class="rounded float-start pe-4" src="../img/DA/annotated-Weighted_graph.h-2.jpg">
-<img width="200px" class="rounded float-start pe-4" src="../img/DA/annotated-Weighted_graph.h-3.jpg">
-<img width="200px" class="rounded float-start pe-4" src="../img/DA/annotated-Weighted_graph.h-4.jpg">
 
