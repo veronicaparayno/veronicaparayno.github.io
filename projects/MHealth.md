@@ -9,6 +9,7 @@ labels:
   - Projects
   - Proposal
 summary: "A Proposal for Mental Health Day for those in high intense workspaces"
+---
 
 
 ## Introduction
