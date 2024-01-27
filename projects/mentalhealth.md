@@ -15,6 +15,7 @@ summary: "A Proposal for Mental Health Day for those in high intense workspaces"
 In recognizing the escalating prevalence of mental health conditions globally, there is a compelling need to address the well-being of individuals navigating high-intensity workspaces. Mental health, a critical component of overall health, significantly influences thoughts, emotions, and performance. This proposal advocates for the establishment of a Wellness Day, specifically tailored to provide individuals in high-stress working environments with dedicated time for self-care.
 
 
+
 ## Proposal Details:
 
 1. Mandatory Option
