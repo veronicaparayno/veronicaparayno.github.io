@@ -17,6 +17,8 @@ summary: "Efficiency and innovation to craft a versatile and user-friendly digit
 
 As a student juggling various classes, assignments, and personal commitments, I found traditional planners limiting in adaptability and often cumbersome to carry around. Notion offered a dynamic solution, providing a virtual space where I could seamlessly integrate my schedule, class information, and to-do lists into a single, accessible platform.
 
+[My Personal Planner](https://www.notion.so/Veronica-s-Personal-Planner-5d3922e3781a4f97a37029c43b6ac415?pvs=4)
+
 ## Digital Planner Features
 
 1. Class Schedules: Notion allowed me to craft a detailed class schedule, complete with timings, locations, and specific details for each course. This feature proved invaluable in maintaining a structured approach to my academic responsibilities.
