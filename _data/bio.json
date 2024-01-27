@@ -39,9 +39,7 @@
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": "CSCI Discrete Mathematics II, CSCI Algorithms, CSCI Software Engineering I"  
-
-      ]
+      "courses": ["CSCI Discrete Mathematics II, CSCI Algorithms, CSCI Software Engineering I"]  
     }
   ],
   "work": [
@@ -53,7 +51,7 @@
       "endDate": "2022-09-01",
       "summary": "Contributed to the store's success by maintaining cleanliness, handling new inventory shipments, and significantly boosting sales.",
       "highlights": [
-        "Played a pivital role in enhancing the sales of the esteemed establishment",
+        "Played a pivital role in enhancing the sales of the esteemed establishment"
         ""
       ]
     },
