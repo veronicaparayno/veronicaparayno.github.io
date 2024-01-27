@@ -39,8 +39,7 @@
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": [ 
-        { "name" : "CSCI Discrete Mathematics II, CSCI Algorithms, CSCI Software Engineering I" } 
+      "courses": "CSCI Discrete Mathematics II, CSCI Algorithms, CSCI Software Engineering I"  
 
       ]
     }
@@ -79,8 +78,7 @@
       "startDate": "2023-10-01",
       "endDate": "Present",
       "summary": "Actively participating in initiatives that celebrate Filipino culture and foster a sense of community.",
-      "highlights": [
-        "Promote unity and awareness within the Filipino community",
+      "highlights": "Promote unity and awareness within the Filipino community",
         ""
       ]
     },
