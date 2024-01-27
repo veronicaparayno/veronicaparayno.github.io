@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/planner.jpeg
 title: "Personal Planner"
-date: 2023
+date: 2023-09-01
 published: true
 labels:
   - Organization
