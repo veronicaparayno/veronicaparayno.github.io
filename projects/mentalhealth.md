@@ -39,4 +39,5 @@ This proposal aims to bridge the gap between earned and actual time off, fosteri
 ## Why Does It Matter?
 The proposal for a Wellness Day in high-intensity workspaces is a proactive step towards prioritizing mental health. The inclusion of statistical data, references, and a well-structured plan emphasizes the urgency of implementing tangible solutions. By recognizing the impact of mental well-being on individual and collective success, organizations can create a more resilient and supportive work environment.
 
+[A Wellness Day](https://docs.google.com/document/d/1ilkLW3oKyZJDtzhfRQCTjGBKK8TIvhO9Wc-dQr2t8W0/edit?usp=sharing)
 
