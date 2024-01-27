@@ -16,7 +16,7 @@
     },
     "profiles": [
       { "network": "github", "username": "veronicaparayno", "url": "https://veronicaparayno.github.io" },
-      { "network": "linkedin", "username": "veronicaparayno", "url": "www.linkedin.com/in/veronicaparayno" },
+      { "network": "linkedin", "username": "veronicaparayno", "url": "https://www.linkedin.com/in/veronicaparayno" },
       { "network": "twitter", "username": "veronicaparayno", "url": "https://twitter.com/veronicaparayno" },
       { "network": "instagram", "username": "rarironie", "url": "https://www.instagram.com/rarironie/" }
     ]
