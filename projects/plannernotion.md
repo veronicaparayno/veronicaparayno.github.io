@@ -9,7 +9,7 @@ labels:
   - Organization
   - Planning
   - Front End Development
-summary: "Efficiency and innovation to craft a versatile and user-friendly digital organizational tool"
+summary: "Efficiency and Innovation to Craft a Versatile and User-Friendly Digital Organizational Tool"
 ---
 
 
@@ -25,7 +25,7 @@ As a student juggling various classes, assignments, and personal commitments, I 
 
 2. Task Tracking: The digital planner became a hub for tracking assignments, deadlines, and project timelines. The ability to categorize tasks, set due dates, and mark completion has greatly enhanced my productivity and time management.
 
-3. Customizable Layout:** One of the key advantages of using Notion was the flexibility it provided in designing my planner. I delved into front-end development, creating visually appealing layouts and personalized templates that catered to my unique organizational needs.
+3. Customizable Layout: One of the key advantages of using Notion was the flexibility it provided in designing my planner. I delved into front-end development, creating visually appealing layouts and personalized templates that catered to my unique organizational needs.
    
 4. Calendar Integration: I leveraged Notion's calendar feature to set reminders for important dates, exams, and extracurricular activities. The calendar proved to be an effective tool for staying ahead of deadlines and ensuring I never missed a critical event.
 
