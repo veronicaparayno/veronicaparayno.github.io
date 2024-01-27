@@ -35,7 +35,8 @@ In this project, you will delve into the world of graph theory by implementing D
 # Purpose 
 The purpose of this project is to reinforce my understanding of the material and initiate the development of your personal library of tools. Subsequent projects may build upon the concepts and implementations from this project, emphasizing the interconnected nature of various data structures.
 
-```/*****************************************
+```
+*****************************************
  * By submitting this file, I affirm that
  * I am the author of all modifications to
  * the provided code.
@@ -211,6 +212,7 @@ std::ostream &operator<<(std::ostream &out, Weighted_graph const &graph) {
 }
 
 #endif
+
  ```
 
 
