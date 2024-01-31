@@ -11,7 +11,7 @@ labels:
   - Javascript
 ---
 
-## A Piece of Cake! 
+## Cake! 
 
 As a total newcomer to JavaScript, I found myself wondering, "What exactly does JS bring to the table, especially in the realm of website development?" To break it down in simpler terms, picture a three-tiered cake: JavaScript forms the foundational layer, HTML sits in the middle as CSS takes the top spot. But what does this metaphorical cake signify? Essentially, JavaScript stands as a scripting programming language, enabling the implementation of intricate features on web pages, like those captivating interactive maps. Renowned for its flexibility, it seamlessly supports both object-oriented and procedural programming paradigms. Beyond its pivotal role in front-end development, JavaScript also extends its influence to the server side through platforms like Node.js, showcasing its adaptability for full-stack applications.
 
