@@ -11,8 +11,7 @@ labels:
   - Professional Development
 ---
 
- <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions.png"> 
-
+ <img width="500px" class="rounded float-start pe-4" src="../img/jumpingintostand.jpeg"> 
 
 
 ## The Unseen Rules of Software Development
