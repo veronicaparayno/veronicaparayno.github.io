@@ -44,6 +44,20 @@ The assignment to replicate a website of my choosing, Hickman Federal Credit Uni
   </div>
 </div>
 
+<div class="container py-3">
+  <div class="row justify-content-center">
+    <div class="col-4 px-1">
+      <div class="card" style="width: 400px;">
+        <img src="../img/hickam-mine-screenshot.png">
+        <div class="card-body">
+          <h5 class="card-text">Hickam Federal Credit Union Original Site</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 ## My Final Thoughts
 
 My journey with Bootstrap was a broader learning experience in web development. It underscored the importance of perseverance, resourcefulness, and the willingness to embrace the unknown. UI frameworks like Bootstrap are not just tools; they are gateways to innovation and creativity in web design. They challenge us to think beyond the basics, to integrate and innovate, and to see the web as a canvas for our technological and artistic expressions.
