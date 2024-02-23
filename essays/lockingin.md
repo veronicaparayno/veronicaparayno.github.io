@@ -11,7 +11,8 @@ labels:
   - HTML & CSS
 ---
 
- <img width="500px" class="rounded float-start pe-4" src="../img/jumpingintostand.jpeg"> 
+ <img width="500px" class="rounded float-start pe-4" src="../img/hickam-mine-screenshot.png"> 
+ 
 
 
 ## The Jump
