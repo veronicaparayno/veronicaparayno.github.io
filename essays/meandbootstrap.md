@@ -32,13 +32,13 @@ The assignment to replicate a website of my choosing, Hickman Federal Credit Uni
 
 
 <div class="text-center p-4">
-  <img width="300px" 
+  <img width="400px" 
        src="../img/hickam-screenshot.png" 
        class="img-thumbnail" >
-  <img width="300px" 
+  <img width="400px" 
        src="../img/hickam-mine-screenshot.png" 
        class="img-thumbnail" >
-  <img width="300px" 
+  <img width="400px" 
        src="../img/Dukes-screenshot.png" 
        class="img-thumbnail" >
 </div>
