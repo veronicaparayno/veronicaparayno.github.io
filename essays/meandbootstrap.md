@@ -29,7 +29,7 @@ This endeavor was not without its hurdles. The initial excitement was tempered b
 
 The assignment to replicate a website of my choosing, Hickman Federal Credit Union in this case, was a formidable challenge. It was an exercise in self-teaching, pushing the boundaries of my understanding and forcing me to adapt and learn quickly. The endeavor was not about achieving perfection but about exploration and growth. The outcome, while not flawless, was a testament to the potential of Bootstrap to create professional-grade websites with further refinement.
 
-<div class="container py-3">
+<!-- <div class="container py-3">
   <div class="row justify-content-center">
     <div class="col-4 px-1">
       <div class="card" style="width: 600px;">
@@ -53,8 +53,16 @@ The assignment to replicate a website of my choosing, Hickman Federal Credit Uni
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
+<div class="text-center p-4">
+  <img width="400px" 
+       src="../img/hickam-screenshot.png" 
+       class="img-thumbnail" >
+  <img width="400px" 
+       src="../img/hickam-mine-screenshot.png 
+       class="img-thumbnail" >
+</div>
 
 ## My Final Thoughts
 
