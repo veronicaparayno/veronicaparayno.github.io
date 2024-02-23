@@ -60,7 +60,7 @@ The assignment to replicate a website of my choosing, Hickman Federal Credit Uni
        src="../img/hickam-screenshot.png" 
        class="img-thumbnail" >
   <img width="400px" 
-       src="../img/hickam-mine-screenshot.png 
+       src="..img/hickam-mine-screenshot.png"
        class="img-thumbnail" >
 </div>
 
