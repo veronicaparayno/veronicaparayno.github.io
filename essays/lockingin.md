@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Jumping Into Coding Standards!"
+title: "Locking In Bootstrap!"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-08
+date: 2024-02-22
 published: true
 labels:
-  - Coding Standards
-  - Quality Assurance
-  - Professional Development
+  - Bootstrap
+  - UI Frameworks
+  - HTML & CSS
 ---
 
  <img width="500px" class="rounded float-start pe-4" src="../img/jumpingintostand.jpeg"> 
