@@ -10,9 +10,11 @@ labels:
   - UI Frameworks
   - HTML & CSS
 ---
- <img width="500px" class="rounded float-start pe-4" src="../img/hickam-screenshot.png"> 
- <img width="500px" class="rounded float-start pe-4" src="../img/hickam-mine-screenshot.png">
- 
+ <!-- <img width="500px" class="rounded float-start pe-4" src="../img/hickam-screenshot.png"> 
+ <img width="500px" class="rounded float-start pe-4" src="../img/hickam-mine-screenshot.png"> -->
+
+ <img src="img/hickam-screenshot.png" class="rounded float-start" alt="#">
+<img src="img/hickam-mine-screenshot.png" class="rounded float-end" alt="#">
 
 
 ## The Jump
