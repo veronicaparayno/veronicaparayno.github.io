@@ -23,17 +23,17 @@ Embracing Bootstrap was more than just adopting a new tool; it was akin to learn
 
 This endeavor was not without its hurdles. The initial excitement was tempered by the challenges of fully grasping the idea of how to use Bootstrap's syntax and conventions. The process was reminiscent of tending to a flower, beautiful at a glance but demanding careful cultivation. My foray into customizing styles through CSS added another layer of complexity, allowing me to experiment with aesthetics but also introducing a realm of overwhelming possibilities.
 
+## An Example
+
+
 ## A Journey of Self-Discovery
 
-![alt-text-1](img/hickam-screenshot.png "title-1") ![alt-text-2](img/hickam-mine-screenshot.png "title-2")
-
-<!-- This is the Hickam Federal Credit Union’s front webpage! 
-<img width="300px" class="rounded float-start pe-4" src="../img/hickam-screenshot.png"> -->
+<img width="600px" class="rounded float-start pe-4" src="../img/hickam-screenshot.png"> 
 
 The assignment to replicate a website of my choosing, Hickman Federal Credit Union in this case, was a formidable challenge. It was an exercise in self-teaching, pushing the boundaries of my understanding and forcing me to adapt and learn quickly. The endeavor was not about achieving perfection but about exploration and growth. The outcome, while not flawless, was a testament to the potential of Bootstrap to create professional-grade websites with further refinement.
 
-<!-- This is my version!
-<img width="300px" class="rounded float-start pe-4" src="../img/hickam-mine-screenshot.png"> -->
+
+<img width="600px" class="rounded float-start pe-4" src="../img/hickam-mine-screenshot.png"> 
 
 My journey with Bootstrap was a broader learning experience in web development. It underscored the importance of perseverance, resourcefulness, and the willingness to embrace the unknown. UI frameworks like Bootstrap are not just tools; they are gateways to innovation and creativity in web design. They challenge us to think beyond the basics, to integrate and innovate, and to see the web as a canvas for our technological and artistic expressions.
 
