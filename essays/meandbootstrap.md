@@ -56,13 +56,18 @@ The assignment to replicate a website of my choosing, Hickman Federal Credit Uni
 </div> -->
 
 <div class="text-center p-4">
-  <img width="400px" 
+  <img width="200px" 
        src="../img/hickam-screenshot.png" 
        class="img-thumbnail" >
-  <img width="400px" 
-       src="..img/hickam-mine-screenshot.png"
+  <img width="200px" 
+       src="../img/hickam-mine-screenshot.png" 
+       class="img-thumbnail" >
+  <img width="200px" 
+       src="../img/micromouse/micromouse-circuit.png" 
        class="img-thumbnail" >
 </div>
+
+
 
 ## My Final Thoughts
 
