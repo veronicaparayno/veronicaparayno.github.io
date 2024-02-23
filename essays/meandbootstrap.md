@@ -27,14 +27,12 @@ This endeavor was not without its hurdles. The initial excitement was tempered b
 
 ## A Journey of Self-Discovery
 
-### My Attempt
-
 The assignment to replicate a website of my choosing, Hickman Federal Credit Union in this case, was a formidable challenge. It was an exercise in self-teaching, pushing the boundaries of my understanding and forcing me to adapt and learn quickly. The endeavor was not about achieving perfection but about exploration and growth. The outcome, while not flawless, was a testament to the potential of Bootstrap to create professional-grade websites with further refinement.
 
 <div class="container py-3">
   <div class="row justify-content-center">
     <div class="col-4 px-1">
-      <div class="card" style="width: 400px;">
+      <div class="card" style="width: 600px;">
         <img src="../img/hickam-screenshot.png">
         <div class="card-body">
           <h5 class="card-text">Hickam Federal Credit Union Original Site</h5>
@@ -47,7 +45,7 @@ The assignment to replicate a website of my choosing, Hickman Federal Credit Uni
 <div class="container py-3">
   <div class="row justify-content-center">
     <div class="col-4 px-1">
-      <div class="card" style="width: 400px;">
+      <div class="card" style="width: 600px;">
         <img src="../img/hickam-mine-screenshot.png">
         <div class="card-body">
           <h5 class="card-text">Me and Bootstrap</h5>
