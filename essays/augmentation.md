@@ -21,27 +21,27 @@ Artificial intelligence is a technological advancement that enables machines to 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. **Experience WODs e.g. E18**
+**1. Experience WODs e.g. E18**
 
 "Workout of the Day," also known as WODs, was introduced in my ICS 314 course is designed to challenge a students coding skill through timed excercises. Usually WODs are based off of new material covered within the week. Experience WODs are crafted with the aim of applying and reinforcing newly acquired knowledge. I abstained from using help from AI during the expereience WODs. Instead, I followed the detailed instructions provided for each task to the best of my ability. When in doubt, the entire process was complemented by a comprehensive video demonstration. It offers a complete ovreview of the experience. Furthermore, I engaged with my peers to gain insight into their approaches to the steps when needed.  
   
-  2. **In-class Practice WODs**
+**2. In-class Practice WODs**
 
 Similarly, I did not use AI for in class practice WODs because it was collaborative. We were shuffled weekly and to work with new peers. This setup encouraged reflection, enabling me to discern my strengths an areas for improvement. Moreover, it necessitated better communication skills as I sought clarification for any errors I may encounter. Ultimately, these in class practice WODs equipped me with comprehensive skills for future endeavors.
  
-  3. **In-class WODs**
+**3. In-class WODs**
 
 In class WODs, I found myself using help from Ai sparingly, I opted to save it for the end due to the time contraints. The timed nature of the WODs led to a sense of urgency, and result in mistakes I might overlook in the moment. In such instances, when faced with code that was not functioning as I hope it would, I to the help of Ai and ask what an error means in order to understand my mistakes. Despite feeling pressured by the time limit, I was able to adapt effeciently to quickly address issues and move forward.   
 
-  4. **Essays**
+**4. Essays**
 
 AI has transformed my entire writing process. I simply share my vision for the essay, and AI provides insighful feedback on what makes it compelling and where it falls short. This guidance has been invaluable especially since I struggle to articulate my ideas clearly. Additionally, there are many forms of AI writing tools that become a valueable asset when submitting important work. 
 
-  5. **Final project**
+**5. Final project**
 
 For my final project, I worked in a group developing UH RepCompanion, a gym buddy app which connects students to work out together. I had ChatGPT help me when it comes to ideas in styling. It would provide me answers to my “what if questions” which helped me tremendously when doing the work for the app.
 
-  6. **Learning a concept / tutorial**
+**6. Learning a concept / tutorial**
 
 I frequently turned to ChatGPT for help with learning and understanding complex concepts and tutorials. For example, when I struggled with quickly comprehending JavaScript, ChatGPT provided clear, step-by-step explanations and practical examples. For example, I wanted to know more about Javascript and its use and learned that it uses control structures like loops and conditionals to control the flow of code shown here :
 
@@ -59,35 +59,35 @@ for (let i = 0; i < 5; i++) {
 
 This made it easier for me to grasp the concept and apply it correctly in my assignments, especially when I needed to implement asynchronous functions and handle callbacks.
 
-  7. **Answering a question in class or in Discord**
+**7. Answering a question in class or in Discord**
 
 I did not use ChatGPT to answer questions in class or on Discord because our class environment prioritized direct interactions with the instructor and peers. This setting allowed for immediate, contextually relevant responses and facilitated a more engaging learning experience. The instructor's real-time feedback and the collaborative discussions with classmates were more beneficial in these scenarios. 
 
-  8. **Asking or answering a smart-question**
+**8. Asking or answering a smart-question**
 
 I refrained from using ChatGPT for asking or answering smart questions due to a previous assignment that emphasized the importance of crafting and responding to such questions independently. This assignment taught us how to formulate clear, concise questions and provide well-thought-out answers, which are crucial skills in the software engineering field. Practicing this independently helped me develop a better understanding of how to approach and solve problems effectively
 
-  9. **Coding example e.g. “give an example of using Underscore .pluck”**
+**9. Coding example e.g. “give an example of using Underscore .pluck”**
 
 Yes, I often asked ChatGPT for coding examples. For instance, when I needed to understand how to use the Underscore.js .pluck function, ChatGPT provided practical examples that demonstrated its usage. This detailed guidance helped me comprehend how to extract specific properties from an array of objects and allowed me to implement the function correctly in my projects, saving time and ensuring accuracy.
 
-  10. **Explaining code**
+**10. Explaining code**
 
 I’ve used ChatGPT to explain code snippets when I forgot specific details or needed a clearer understanding of certain parts. For example, if I encountered a complex piece of code involving closures in JavaScript, ChatGPT would break down the code, explaining how and why it worked. This assistance was invaluable in helping me solidify my understanding and improve my ability to explain the code to others. 
 
-  11. **Writing code**
+**11. Writing code**
 
 ChatGPT was a great tool to assist with writing code, especially when tackling unfamiliar tasks. As I am not a professional coder, there were instances where I needed guidance on how to write certain functions or implement specific features. For example, when I had to write a recursive function, ChatGPT provided useful snippets and explanations, which boosted my confidence and efficiency in coding. 
 
-  12. **Documenting code**
+**12. Documenting code**
 
 I did not use AI for documenting code because I preferred to handle documentation manually, keeping it organized within my project files. This approach ensured that my documentation was thorough and tailored to the specific needs of my projects, making it easier to reference later.
 
-  13. **Quality assurance** 
+**13. Quality assurance** 
 
 I used ChatGPT for quality assurance tasks to ensure the accuracy of my code. Before making final commits on projects, I would use ChatGPT to identify and fix errors or ESLint issues. For example, if I encountered a cryptic error message or a series of linting issues, ChatGPT would help me understand and resolve these problems, ensuring my code was clean and functional.
 
-  14. **Other uses in ICS 314 not listed above**
+**14. Other uses in ICS 314 not listed above**
 
 In addition to what I have mentioned, I used ChatGPT for organizational and advisory purposes. It helped me plan my project timelines, prioritize tasks, and provided advice on best practices in coding and project management. This guidance was crucial in maintaining efficiency and meeting deadlines.
 
