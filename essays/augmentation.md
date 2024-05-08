@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI isn't a replacement, it's an augmentation!"
+title: "AI is Not a Replacement, it is an Augmentation!"
 date: 2024-05-07
 published: true
 labels:
