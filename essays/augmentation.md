@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "AI is Not a Replacement, it is an Augmentation!"
+title: "AI Is Not a Replacement, It Is Augmentation!"
 date: 2024-05-07
 published: true
 labels:
   - Artifical Inteligence 
   - Practical Application
-  - Analysis
 ---
 
  <img width="500px" class="rounded float-start pe-4" src="../img/ChatGPT.jpeg"> 
