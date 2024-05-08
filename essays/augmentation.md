@@ -40,7 +40,8 @@ For my final project, I worked in a group developing UH RepCompanion, a gym budd
   6. Learning a concept / tutorial
 I frequently turned to ChatGPT for help with learning and understanding complex concepts and tutorials. For example, when I struggled with quickly comprehending JavaScript, ChatGPT provided clear, step-by-step explanations and practical examples. For example, I wanted to know more about Javascript and its use and learned that it uses control structures like loops and conditionals to control the flow of code shown here :
 
-''' if (count > 5) {
+```
+if (count > 5) {
   console.log("Count is greater than 5");
 } else {
   console.log("Count is 5 or less");
@@ -48,7 +49,8 @@ I frequently turned to ChatGPT for help with learning and understanding complex 
 
 for (let i = 0; i < 5; i++) {
   console.log("Iteration number: " + i);
-} '''
+}
+```
 
 This made it easier for me to grasp the concept and apply it correctly in my assignments, especially when I needed to implement asynchronous functions and handle callbacks.
 
