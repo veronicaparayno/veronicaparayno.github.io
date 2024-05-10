@@ -71,8 +71,8 @@ Additional tasks included refining the informational footer, linking the weekly 
 
 This project taught me valuable lessons about collaborative software development. Working within a team setting, I learned the importance of clear communication, effective time management, and thorough documentation. The Agile methodology we followed helped us systematically build upon our foundation, making it easier to identify and resolve issues as they arose. I also gained technical skills in web application deployment and learned how to acquire custom domains. Additionally, researching and implementing various features, such as the weekly calendar, expanded my knowledge and capabilities in web development. Overall, this project provided me with practical experience that mirrors real-world software engineering practices. It has prepared me for future endeavors and a career in software development.
 
-If you would like to see the final results of this project, feel free to visit [UH StudyMate]().
+If you would like to see the final results of this project, feel free to visit [UH RepCpmpanion](https://uhrepcompanion.site/).
 
-To better understand the inner workings of the application, please visit our [GitHub repository]().
+To better understand the inner workings of the application, please visit our [GitHub](https://uh-repcompanion.github.io/).
 
 
