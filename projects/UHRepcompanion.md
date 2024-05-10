@@ -59,9 +59,9 @@ The final milestone (M3) involved adding final touches and new features to ensur
 
 I implemented functionality for users to include their social media links on their profiles. This involved updating the database to store these links and verifying the validity of the URLs. Icons representing each social media platform were added to the Profile Page, allowing other users to visit these links directly.
 
-<img width="300px" height="390px"
+<img width="200px" height="690px"
     class="float-end pe-4" 
-     src="../img/repcompanion/UH-RepCompanion-19.png" >
+     src="../img/UH-RepCompanion-19.png" >
 
 #### Dynamic Profile Pictures
 
