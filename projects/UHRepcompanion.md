@@ -51,7 +51,7 @@ I enhanced the events Page by adding more detailed descriptions and visual eleme
 
 One of my major tasks was implementing profiles feature on the Profile Page. This feature allowed users to find their buddy. Users could click on specific dates to mark sessions, which helped them organize their activities.
 
-<img width="200px" height="690px"
+<img width="230px" height="690px"
     class="float-end pe-4" 
      src="../img/UH-RepCompanion-19.png" >
 
