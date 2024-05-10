@@ -51,6 +51,10 @@ I enhanced the events Page by adding more detailed descriptions and visual eleme
 
 One of my major tasks was implementing profiles feature on the Profile Page. This feature allowed users to find their buddy. Users could click on specific dates to mark sessions, which helped them organize their activities.
 
+<img width="200px" height="690px"
+    class="float-end pe-4" 
+     src="../img/UH-RepCompanion-19.png" >
+
 ### Milestone 3
 
 The final milestone (M3) involved adding final touches and new features to ensure the application was fully functional and user-friendly.
@@ -58,10 +62,6 @@ The final milestone (M3) involved adding final touches and new features to ensur
 #### Social Media Integration
 
 I implemented functionality for users to include their social media links on their profiles. This involved updating the database to store these links and verifying the validity of the URLs. Icons representing each social media platform were added to the Profile Page, allowing other users to visit these links directly.
-
-<img width="200px" height="690px"
-    class="float-end pe-4" 
-     src="../img/UH-RepCompanion-19.png" >
 
 #### Dynamic Profile Pictures
 
