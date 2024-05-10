@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/planner.jpeg
+image: img/UHRepcompanionlogo.jpg
 title: "UH RepCompanion"
 date: 2024-05-08
 published: true
