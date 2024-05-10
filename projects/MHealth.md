@@ -4,7 +4,7 @@ type: project
 image: img/mentalhealth.jpeg
 title: "Mental Health"
 date: 2022-08-01
-published: true
+published: false
 labels:
   - Projects
   - Proposal
