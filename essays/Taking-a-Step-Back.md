@@ -4,7 +4,7 @@ type: essay
 title: "Taking a Step Back"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
-published: true
+published: false
 labels:
   - Essay
   - Learning
