@@ -61,7 +61,7 @@ I implemented functionality for users to include their social media links on the
 
 <img width="300px" height="390px"
     class="float-end pe-4" 
-     src="../img/repcompanion/UH-RepCompanion-17.png" >
+     src="../img/repcompanion/UH-RepCompanion-19.png" >
 
 #### Dynamic Profile Pictures
 
