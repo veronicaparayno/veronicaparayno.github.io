@@ -33,9 +33,7 @@ Imagine a maze with twists and turns (a weighted graph). Dijkstra's algorithm is
      - `double distance(int m, int n)`: Returns the shortest distance between vertices m and n. Throws an illegal argument exception if the arguments do not correspond to existing vertices. The distance between a vertex and itself is 0.0. The distance between vertices that are not connected is infinity.
 
 # Purpose 
-This code defines a class named `Weighted_graph` that represents an undirected graph with weights on the edges. The purpose of this class is to provide functionalities for managing and manipulating weighted graphs.
-
-# Here's a breakdown of its functionalities:
+This code defines a class named `Weighted_graph` that represents an undirected graph with weights on the edges. The purpose of this class is to provide functionalities for managing and manipulating weighted graphs. Here is a breakdown:
 
 **Constructors:** It allows creating a graph with a specified number of vertices (default 50) and handles invalid inputs (negative or zero vertices).
 **Destructor:** It ensures proper cleanup of any memory allocated by the class.
