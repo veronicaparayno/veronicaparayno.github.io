@@ -42,10 +42,10 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2025)",
-      "studyType": "B.S.",
+      "studyType": "B.A.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": ["CSCI Discrete Mathematics II", "CSCI Algorithms", "CSCI Software Engineering I"]
+      "courses": ["CSCI Discrete Mathematics II", "CSCI Algorithms", "CSCI Software Engineering I, "]
     }
   ],
   "work": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "company": "Brand Ambassador",
+      "company": "F21",
       "position": "Brand Associate",
       "website": "",
       "startDate": "2021-01-01",
