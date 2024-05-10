@@ -4,7 +4,7 @@ type: essay
 title: "Jumping Into Coding Standards!"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
-published: true
+published: false
 labels:
   - Coding Standards
   - Quality Assurance
